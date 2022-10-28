@@ -1,4 +1,4 @@
-# Assignment_7_K-Means_Clustering_Airlines
+# Assignment_7_Clustering_Airlines
 
 Perform clustering for the airlines data to obtain optimum number of clusters. 
 Draw the inferences from the clusters obtained.
